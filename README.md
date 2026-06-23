@@ -1,5 +1,5 @@
 ## Classification Models 
-3 different classification problems solve kiye is notebook mein:
+3 different classification problems are solved in this notebook:
 - Student Performance Prediction
 - Loan Approval Prediction  
 - Heart Disease Prediction
